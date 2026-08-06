@@ -2,6 +2,7 @@ from Vorota import roots_scene
 from start import left_path
 from game_test import right_path
 from game_test import clear
+import time
 
 
 def main_menu():
@@ -28,6 +29,7 @@ def main_menu():
             break
         else:
             print("Неверный выбор. Попробуйте снова.")
+            time.sleep(5)
 
 if __name__ == "__main__":
     main_menu()
