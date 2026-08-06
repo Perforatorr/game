@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23985e90-0f28-4ddd-ba26-f82671bc0ba7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vorota.py" beforeDir="false" afterPath="$PROJECT_DIR$/Vorota.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/start.py" afterDir="false" />
-    </list>
+    <list default="true" id="23985e90-0f28-4ddd-ba26-f82671bc0ba7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
