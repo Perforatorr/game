@@ -1,6 +1,5 @@
 import random
 
-
 def wind_game():
     directions = ["север", "юг", "восток", "запад"]
     correct = random.choice(directions)
@@ -52,6 +51,4 @@ def main():
     left_path()
 
 
-if __name__ == "__main__":
-    main()
 

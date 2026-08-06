@@ -54,5 +54,3 @@ def right_path():
     else:
         print(Fore.LIGHTBLACK_EX + "Ты молчишь, и Дух исчезает.")
 
-
-right_path()
