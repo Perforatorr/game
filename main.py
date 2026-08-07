@@ -8,6 +8,8 @@ import time
 def main_menu():
     while True:
         clear()
+        print()
+        print()
         print("Путь через Затерянный Лес")
         print("\nВыберите сцену:")
         print("1. Левая тропа (Старый мост)")
